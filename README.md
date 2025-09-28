@@ -42,7 +42,7 @@ Nếu đúng → chuyển hướng sang trang Profile.
 
 Nếu sai → hiển thị thông báo lỗi.
 ![login](https://github.com/HoaiLoc9/Local_passport_website/blob/main/public/results/login4.png?raw=true)
-![logincheckdb](https://github.com/HoaiLoc9/Local_passport_website/blob/main/public/results/login4_checkdb.png?raw=true)
+![logincheckdb](https://github.com/HoaiLoc9/Local_passport_website/blob/main/public/results/checkdb4.png?raw=true)
 
 ## 3. Profile
 Truy cập: http://localhost:3000/profile
