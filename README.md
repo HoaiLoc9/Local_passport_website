@@ -6,7 +6,7 @@ Dự án này minh họa cách tích hợp **Passport.js (LocalStrategy)** vào 
 - **Đăng ký (Register)**
 - **Đăng nhập (Login)**
 - **Xem trang Profile (chỉ khi đăng nhập)**
-
+- **Đăng xuất (Logout)**
 ---
 
 ## ⚙️ Cài đặt & Chạy thử
@@ -51,6 +51,11 @@ Yêu cầu: phải login trước.
 
 Hiển thị thông tin user.
 ![profile](https://github.com/HoaiLoc9/Local_passport_website/blob/main/public/results/profile4.png?raw=true)
+## 4. Logout
+
+Truy cập: http://localhost:3000/logout
+
+Xóa session và quay về trang login.
 
 ## 📂 Cấu trúc dự án
 ```bash
